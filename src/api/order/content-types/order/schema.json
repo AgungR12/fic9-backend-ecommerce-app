@@ -4,7 +4,8 @@
   "info": {
     "singularName": "order",
     "pluralName": "orders",
-    "displayName": "order"
+    "displayName": "order",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -30,7 +31,7 @@
       "type": "enumeration",
       "enum": [
         "waiting-payment",
-        "packaging ",
+        "packaging",
         "on-delivery",
         "done",
         "cancel"
